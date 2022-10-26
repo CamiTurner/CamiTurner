@@ -1,4 +1,12 @@
-### Hi there 👋
+My name is Camila Turner Escalante, I'm currently studing an Engineering in Computer Science at Tecnológico de Monterrey.
+
+Some of the programing languages I've used are:
+* Python
+* Java
+* R
+* C++
+* C#
+* HTML?
 
 <!--
 **CamiTurner/CamiTurner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
