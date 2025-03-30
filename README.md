@@ -1,6 +1,6 @@
 My name is Camila Turner Escalante, I'm currently studing an Engineering in Computer Science at Tecnológico de Monterrey.
 
-Some of the programing languages I've used are: *(ponerlos en un renglón, con íconos)*
+Some of the programing languages I've used are: 
 * Python
 * Java
 * R
